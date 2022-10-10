@@ -3,3 +3,5 @@
 
 const answer = prompt("ssseeerrr", 'bla')
 console.log(+answer + 5)
+
+const test = "some text"
